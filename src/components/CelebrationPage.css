@@ -826,3 +826,8 @@
     font-size: 0.95rem;
   }
 }
+/* Hide the placeholder name heading */
+h1:has(span),
+h1:contains("[Name]") {
+  display: none !important;
+}
