@@ -15,13 +15,11 @@ function MessageCard({ isActive }) {
 
   const message = `[divyanshi],
 
-Your personalized birthday message goes here.
-
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Happy birthday my pasandida dost 
+you are not just a friend but a treasure in my life 
+I wish you endless happiness,good health and success in your every dream
+may laughter follow you everywhere. God keep away evil person from you.
+and at last i want to add thanks for becoming my true friend
 
 Happy Birthday! 🎉
 
