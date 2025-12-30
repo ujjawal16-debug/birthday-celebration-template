@@ -76,7 +76,7 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
       <section className="countdown">
         <div className="flip-timer">
           <span className="birthday-celebration">
-            🎉 It's Your Birthday! 🎉
+            🎉 It's Your Birthday! Divyanshi 🎉
           </span>
         </div>
       </section>
@@ -99,15 +99,7 @@ function Countdown({ onBirthdayReached, birthdayReached }) {
         />
       </div>
 
-      {/* ⚠️ TEST BUTTON - delete it from here⚠️ */}
-      <button
-        className="test-button"
-        onClick={onBirthdayReached}
-        title="Skip countdown and see celebration"
-      >
-        🎉 Test Celebration
-      </button>
-      {/* ⚠️ END TEST BUTTON - DELETE UP TO HERE ⚠️ */}
+     */}
     </section>
   );
 }
