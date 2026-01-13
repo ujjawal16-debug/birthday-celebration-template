@@ -13,17 +13,18 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[divyanshi],
+  const message = `[Divyanshi],
 
-Happy birthday my pasandida dost 
+Happy birthday my pasandida sakhi
 you are not just a friend but a treasure in my life 
-I wish you endless happiness,good health and success in your every dream
-may laughter follow you everywhere. God keep away evil person from you.
+I wish you endless happiness,good health and success in your life
+may laughter follow you everywhere. God keep away evil persons from you. i promise to always stick by your side.
+i am here for you and always will be... and i am sure you do tooo..
 and at last i want to add thanks for becoming my true friend
 
 Happy Birthday! 🎉
 
-— [ujjawal]`;
+— [UJ]`;
 
   // Handle page transitions
   useEffect(() => {
