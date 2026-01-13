@@ -16,7 +16,7 @@ function MessageCard({ isActive }) {
   const message = `[Divyanshi],
 
 Happy birthday my pasandida sakhi
-you are not just a friend but a treasure in my life 
+you are not just a friend but a treasure in my life and a part of my life where I find peace 
 I wish you endless happiness,good health and success in your life
 may laughter follow you everywhere. God keep away evil persons from you. i promise to always stick by your side.
 i am here for you and always will be... and i am sure you do tooo..
